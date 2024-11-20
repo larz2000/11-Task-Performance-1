@@ -1,0 +1,10 @@
+C:\Users\sarzo\source\repos\TrackThread\bin\Debug\TrackThread.exe.config
+C:\Users\sarzo\source\repos\TrackThread\bin\Debug\TrackThread.exe
+C:\Users\sarzo\source\repos\TrackThread\bin\Debug\TrackThread.pdb
+C:\Users\sarzo\source\repos\TrackThread\obj\Debug\TrackThread.csproj.AssemblyReference.cache
+C:\Users\sarzo\source\repos\TrackThread\obj\Debug\TrackThread.frmTrackThread.resources
+C:\Users\sarzo\source\repos\TrackThread\obj\Debug\TrackThread.Properties.Resources.resources
+C:\Users\sarzo\source\repos\TrackThread\obj\Debug\TrackThread.csproj.GenerateResource.cache
+C:\Users\sarzo\source\repos\TrackThread\obj\Debug\TrackThread.csproj.CoreCompileInputs.cache
+C:\Users\sarzo\source\repos\TrackThread\obj\Debug\TrackThread.exe
+C:\Users\sarzo\source\repos\TrackThread\obj\Debug\TrackThread.pdb
